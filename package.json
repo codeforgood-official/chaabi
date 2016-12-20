@@ -1,0 +1,21 @@
+{
+    "name": "chaabi",
+    "version": "0.0.99",
+    "description": "CLI to put a chaabi(key) to anything",
+    "repository": {"type": "git", "url":"https://github.com/makeitcount/chaabi"},
+    "author": "Pradeep Sharma",
+    "license": "MIT",
+    "main": "index.js",
+    "keywords": "encryption, crypto, password manager, cryptography, key, secret",
+    "scripts": {
+        "test": "echo \"Error: no write some test cases first\" && exit 1"
+    },
+    "bin": {
+        "chaabi": "./index.js"
+    },
+    "dependencies": {
+        "commander": "latest",
+        "co": "latest",
+        "co-prompt": "latest"
+    }
+}
