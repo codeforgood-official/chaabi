@@ -1,6 +1,6 @@
 {
     "name": "chaabi",
-    "version": "0.0.99",
+    "version": "0.1.1",
     "description": "CLI to put a chaabi(key) to anything",
     "repository": {"type": "git", "url":"https://github.com/makeitcount/chaabi"},
     "author": "Pradeep Sharma",
