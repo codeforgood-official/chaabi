@@ -1,11 +1,11 @@
-##Simplest and trustworthy way to encrypt anything. All locally.
+## Simplest and trustworthy way to encrypt anything. All locally.
 ---
 
 > How to encrypt: `chaabi "<text>"`
 
 > How to decrypt: `chaabi open`
 
-####Getting Started
+### Getting Started
 
 - `npm install -g chaabi`
 
@@ -14,7 +14,7 @@
 
 The encrypted data is stored in a .chaabi file, in the same directory where the command is run from. To Decrypt you must run the command from the same directory. This way you can store information in multiple folders.
 
-####How to share project secrets with team in usual development workflow
+### How to share project secrets with team in usual development workflow
 
 * Go to project directory and create a chaabi file by adding any secret text e.g. development server credentials 
 ```
@@ -31,7 +31,7 @@ That's it. As a convention keep .chaabi file at project root folder.
 
 **Encryption algorithm used: `aes-256-ctr`**
 
-####Roadmap:
+### Roadmap:
 1. Save any text in encrypted format. Decrypt through password. > Done
 2. Save website credentials in encrypted format intuitively. [Resources](https://github.com/sindresorhus/opn) > Pending
 3. Encrypt(password protect) any file on computer system. > Pending
