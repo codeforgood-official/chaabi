@@ -5,6 +5,8 @@
 
 > How to decrypt: `chaabi open`
 
+![Demo](https://media.giphy.com/media/3og0IzGrdOeLLMbtoQ/giphy.gif)
+
 ### Getting Started
 
 - `npm install -g chaabi`
