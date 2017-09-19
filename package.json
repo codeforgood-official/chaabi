@@ -1,8 +1,8 @@
 {
     "name": "chaabi",
-    "version": "0.1.3",
-    "description": "CLI to put a chaabi(key) to anything",
-    "repository": {"type": "git", "url":"https://github.com/makeitcount/chaabi"},
+    "version": "0.1.4",
+    "description": "Easy to use CLI to encrypt anything locally",
+    "repository": {"type": "git", "url":"https://github.com/codeforgood-official/chaabi"},
     "author": "Pradeep Sharma",
     "license": "MIT",
     "main": "index.js",
