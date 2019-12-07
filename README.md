@@ -1,5 +1,7 @@
 ## Simplest and trustworthy way to encrypt anything. All locally.
----
+
+[![Generic badge](https://img.shields.io/npm/dt/chaabi)](https://shields.io/)
+
 
 > How to encrypt: `chaabi "<text>"`
 

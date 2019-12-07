@@ -1,6 +1,6 @@
 {
     "name": "chaabi",
-    "version": "0.1.4",
+    "version": "0.1.5",
     "description": "Easy to use CLI to encrypt anything locally",
     "repository": {"type": "git", "url":"https://github.com/codeforgood-official/chaabi"},
     "author": "Pradeep Sharma",
