@@ -1,6 +1,6 @@
 ## Simplest and trustworthy way to encrypt anything. All locally.
 
-[![Generic badge](https://img.shields.io/npm/dt/chaabi)](https://shields.io/)
+[![Generic badge](https://img.shields.io/npm/dt/chaabi)](https://shields.io/) [![install size](https://packagephobia.now.sh/badge?p=chaabi)](https://packagephobia.now.sh/result?p=chaabi) [![Known Vulnerabilities](https://snyk.io/test/npm/chaabi/badge.svg)](https://snyk.io/test/npm/chaabi) 
 
 
 > How to encrypt: `chaabi "<text>"`
